@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karisto 
 - 👀 I’m interested in Software Testing
 - 🌱 I’m currently an automation tester
--  I have experience using Playwright and Cypress
+-  I have experience using Playwright, Selenium and Cypress
 - 💞️ I’m looking to collaborate on Software Testing Projects
 - 📫 How to reach me @Taona1 on twitter, munyukikaristo@gmail.com
 
